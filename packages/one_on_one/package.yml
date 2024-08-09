@@ -1,0 +1,5 @@
+enforce_dependencies: true
+enforce_privacy: true
+dependencies:
+  # - "."  # これはルートパッケージ（アプリケーション全体）への依存を示します
+  - "packages/dashboard"
